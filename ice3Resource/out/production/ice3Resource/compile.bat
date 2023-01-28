@@ -1,0 +1,1 @@
+javac -d classes src/ticketing/entity/* src/ticketing/test/* src/ticketing/utility/*
