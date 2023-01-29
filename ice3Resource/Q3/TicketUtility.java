@@ -8,14 +8,15 @@ public class TicketUtility {
             return 0.0;
         }
         int numTickets = ticketList.size();
-        double totalPrice = 0;
-
+        
         if (numTickets == 0){
             return 0.0;
         }
 
+        double totalPrice = 0;
+
         for(Ticket ticket: ticketList) {
-            totalPrice = totalPrice + ticket.calculatePrice();
+            totalPrice += ticket.calculatePrice();
         }
 
         return totalPrice / numTickets;
