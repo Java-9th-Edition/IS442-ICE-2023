@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Q5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Q5/mailapi-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Q5/smtp-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Q5/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

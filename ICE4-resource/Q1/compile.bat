@@ -1,0 +1,1 @@
+javac -d classes src/farming/app/*.java src/farming/type/*.java

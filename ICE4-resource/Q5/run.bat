@@ -1,0 +1,1 @@
+java -cp javax/activation/*;javax/mail/*;com/sun/mail/smtp/*;out demo/Tester

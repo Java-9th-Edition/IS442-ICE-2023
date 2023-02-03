@@ -1,0 +1,1 @@
+javac -d out -cp javax/activation/*;javax/mail/*;com/sun/mail/smtp/* demo/util/Emailer.java demo/Tester.java
