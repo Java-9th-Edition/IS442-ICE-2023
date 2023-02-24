@@ -1,0 +1,1 @@
+javac -d classes -cp classes;data src\*.java
