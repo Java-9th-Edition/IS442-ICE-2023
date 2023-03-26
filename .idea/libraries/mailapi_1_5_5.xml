@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mailapi-1.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ICE4-resource/Q5/javax/mail/mailapi-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

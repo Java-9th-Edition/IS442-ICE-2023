@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ICE4-resource/ICE4-resource.iml" filepath="$PROJECT_DIR$/ICE4-resource/ICE4-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE5-resource/ICE5-resource.iml" filepath="$PROJECT_DIR$/ICE5-resource/ICE5-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE6-exception-resource/ICE6-exception-resource.iml" filepath="$PROJECT_DIR$/ICE6-exception-resource/ICE6-exception-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE7-exception2-resource/ICE7-exception2-resource.iml" filepath="$PROJECT_DIR$/ICE7-exception2-resource/ICE7-exception2-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IS442-ICE.iml" filepath="$PROJECT_DIR$/IS442-ICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE6-exception-resource/Q1/Q1.iml" filepath="$PROJECT_DIR$/ICE6-exception-resource/Q1/Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE4-resource/Q1/Q11.iml" filepath="$PROJECT_DIR$/ICE4-resource/Q1/Q11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE4-resource/Q2/Q2.iml" filepath="$PROJECT_DIR$/ICE4-resource/Q2/Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE4-resource/Q3/Q3.iml" filepath="$PROJECT_DIR$/ICE4-resource/Q3/Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice3Resource/Q4/Q4.iml" filepath="$PROJECT_DIR$/ice3Resource/Q4/Q4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE4-resource/Q4/Q41.iml" filepath="$PROJECT_DIR$/ICE4-resource/Q4/Q41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice3Resource/Q4/src/Q42.iml" filepath="$PROJECT_DIR$/ice3Resource/Q4/src/Q42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice3Resource/Q5/Q5.iml" filepath="$PROJECT_DIR$/ice3Resource/Q5/Q5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE7-exception2-resource/Q7/Q7.iml" filepath="$PROJECT_DIR$/ICE7-exception2-resource/Q7/Q7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICE7-exception2-resource/Q8/Q8.iml" filepath="$PROJECT_DIR$/ICE7-exception2-resource/Q8/Q8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ice3Resource/ice3Resource.iml" filepath="$PROJECT_DIR$/ice3Resource/ice3Resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance2-resource/inheritance2-resource.iml" filepath="$PROJECT_DIR$/inheritance2-resource/inheritance2-resource.iml" />
+    </modules>
+  </component>
+</project>

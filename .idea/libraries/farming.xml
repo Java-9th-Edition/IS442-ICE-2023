@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="farming">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ICE4-resource/Q2/lib/farming.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

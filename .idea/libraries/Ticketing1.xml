@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ticketing1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ice3Resource/out/production/ice3Resource/library/Ticketing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
